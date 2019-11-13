@@ -1,0 +1,783 @@
+
+/* Class = "UILabel"; text = "Penicillian and related antibiotics"; ObjectID = "0Cn-8A-F5j"; */
+"0Cn-8A-F5j.text" = "Penicillian and related antibiotics";
+
+/* Class = "UILabel"; text = "Dr. Edurdo Alvarez"; ObjectID = "0Fo-2c-R7Y"; */
+"0Fo-2c-R7Y.text" = "Dr. Edurdo Alvarez";
+
+/* Class = "UILabel"; text = "Deliver to this address bellow:"; ObjectID = "0Gy-vr-OfB"; */
+"0Gy-vr-OfB.text" = "Deliver to this address bellow:";
+
+/* Class = "UILabel"; text = "Review"; ObjectID = "0PO-FT-HS3"; */
+"0PO-FT-HS3.text" = "Review";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "0lU-aP-Kj4"; */
+"0lU-aP-Kj4.text" = "00";
+
+/* Class = "UILabel"; text = "Tension type headache"; ObjectID = "0tK-s7-sae"; */
+"0tK-s7-sae.text" = "Tension type headache";
+
+/* Class = "UILabel"; text = "Primary Care"; ObjectID = "1Mc-bL-gos"; */
+"1Mc-bL-gos.text" = "Primary Care";
+
+/* Class = "UILabel"; text = "Anticonvulsants"; ObjectID = "1Sd-1d-wFc"; */
+"1Sd-1d-wFc.text" = "Anticonvulsants";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "25C-RU-NCu"; */
+"25C-RU-NCu.text" = "Age";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "273-ad-SJS"; */
+"273-ad-SJS.text" = "5.0";
+
+/* Class = "UILabel"; text = "Social Hístory"; ObjectID = "2db-Hv-Utm"; */
+"2db-Hv-Utm.text" = "Social Hístory";
+
+/* Class = "UILabel"; text = "Primary Care"; ObjectID = "2ga-hf-fRS"; */
+"2ga-hf-fRS.text" = "Primary Care";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "359-an-a43"; */
+"359-an-a43.text" = "00";
+
+/* Class = "UILabel"; text = "00852"; ObjectID = "37D-Ph-W62"; */
+"37D-Ph-W62.text" = "00852";
+
+/* Class = "UILabel"; text = "Primary Care"; ObjectID = "3IE-5E-3sV"; */
+"3IE-5E-3sV.text" = "Primary Care";
+
+/* Class = "UILabel"; text = "Forget Password"; ObjectID = "3SH-eU-43u"; */
+"3SH-eU-43u.text" = "Forget Password";
+
+/* Class = "UIButton"; normalTitle = "I forgot my password"; ObjectID = "3YQ-O7-k4z"; */
+"3YQ-O7-k4z.normalTitle" = "I forgot my password";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "3aP-uF-84Y"; */
+"3aP-uF-84Y.text" = "Number";
+
+/* Class = "UILabel"; text = "Dermatoligist"; ObjectID = "3sr-3K-3DM"; */
+"3sr-3K-3DM.text" = "Dermatoligist";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "3tH-En-iKO"; */
+"3tH-En-iKO.text" = "Profile";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "4Hu-Ja-a58"; */
+"4Hu-Ja-a58.text" = "5.0";
+
+/* Class = "UILabel"; text = "Schedule a Doctor"; ObjectID = "4rC-yh-QNU"; */
+"4rC-yh-QNU.text" = "Schedule a Doctor";
+
+/* Class = "UILabel"; text = "I have Read and Accept"; ObjectID = "4vg-uC-PrM"; */
+"4vg-uC-PrM.text" = "I have Read and Accept";
+
+/* Class = "UILabel"; text = "Jordan G."; ObjectID = "5S9-qZ-OCt"; */
+"5S9-qZ-OCt.text" = "Jordan G.";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "5Tk-sc-vnZ"; */
+"5Tk-sc-vnZ.text" = "Gender";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "5YV-dG-IGP"; */
+"5YV-dG-IGP.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "Board Certified in Internal Medicine in Columbia NY"; ObjectID = "5xr-eQ-G5h"; */
+"5xr-eQ-G5h.text" = "Board Certified in Internal Medicine in Columbia NY";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "6di-KI-tdv"; */
+"6di-KI-tdv.text" = "00";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."; ObjectID = "6qO-Ra-55t"; */
+"6qO-Ra-55t.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "78A-Fc-YhR"; */
+"78A-Fc-YhR.placeholder" = "New Password";
+
+/* Class = "UITextField"; text = "33132"; ObjectID = "7ER-rC-Dtg"; */
+"7ER-rC-Dtg.text" = "33132";
+
+/* Class = "UILabel"; text = "4.9"; ObjectID = "7HI-pd-njP"; */
+"7HI-pd-njP.text" = "4.9";
+
+/* Class = "UILabel"; text = "Save for later"; ObjectID = "7HP-Ck-U5m"; */
+"7HP-Ck-U5m.text" = "Save for later";
+
+/* Class = "UILabel"; text = "FREE"; ObjectID = "7Ke-tc-2aD"; */
+"7Ke-tc-2aD.text" = "FREE";
+
+/* Class = "UILabel"; text = "Medical Records"; ObjectID = "7Od-lx-LTG"; */
+"7Od-lx-LTG.text" = "Medical Records";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "7cX-We-mBg"; */
+"7cX-We-mBg.text" = "Location";
+
+/* Class = "UILabel"; text = "Birth-City"; ObjectID = "8lq-f4-xi9"; */
+"8lq-f4-xi9.text" = "Birth-City";
+
+/* Class = "UILabel"; text = "English, Spanish"; ObjectID = "8nh-XT-b1B"; */
+"8nh-XT-b1B.text" = "English, Spanish";
+
+/* Class = "UILabel"; text = "THU"; ObjectID = "8qL-GW-KU9"; */
+"8qL-GW-KU9.text" = "THU";
+
+/* Class = "UIButton"; normalTitle = "Check out"; ObjectID = "92F-R5-T2m"; */
+"92F-R5-T2m.normalTitle" = "Check out";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "9JM-Qh-Aes"; */
+"9JM-Qh-Aes.text" = "5.0";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "9cT-yZ-5W8"; */
+"9cT-yZ-5W8.text" = "No";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "9ek-Qu-RLG"; */
+"9ek-Qu-RLG.text" = "Language";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "9lg-hh-xQO"; */
+"9lg-hh-xQO.normalTitle" = "Edit";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "AHy-xD-644"; */
+"AHy-xD-644.text" = "Age";
+
+/* Class = "UILabel"; text = "Find your Doctor"; ObjectID = "Aeh-OV-Tf2"; */
+"Aeh-OV-Tf2.text" = "Find your Doctor";
+
+/* Class = "UITextField"; text = "US"; ObjectID = "AhK-q2-KbW"; */
+"AhK-q2-KbW.text" = "US";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "Ahu-uA-p8G"; */
+"Ahu-uA-p8G.text" = "Gender";
+
+/* Class = "UILabel"; text = "Current address"; ObjectID = "Ayh-HL-9Zk"; */
+"Ayh-HL-9Zk.text" = "Current address";
+
+/* Class = "UILabel"; text = "Board Certified in Internal Medicine in Columbia NY"; ObjectID = "BMh-Qd-bf9"; */
+"BMh-Qd-bf9.text" = "Board Certified in Internal Medicine in Columbia NY";
+
+/* Class = "UILabel"; text = "Board Certified in Internal Medicine in Columbia NY"; ObjectID = "BOT-gR-yjz"; */
+"BOT-gR-yjz.text" = "Board Certified in Internal Medicine in Columbia NY";
+
+/* Class = "UILabel"; text = "Dr. Alfonso Miguel"; ObjectID = "BeX-I1-gC2"; */
+"BeX-I1-gC2.text" = "Dr. Alfonso Miguel";
+
+/* Class = "UILabel"; text = "139.99"; ObjectID = "Bp0-ey-jE0"; */
+"Bp0-ey-jE0.text" = "139.99";
+
+/* Class = "UILabel"; text = "5 F"; ObjectID = "Bw7-wo-54q"; */
+"Bw7-wo-54q.text" = "5 F";
+
+/* Class = "UILabel"; text = "Primary Care"; ObjectID = "Bx9-uW-ocB"; */
+"Bx9-uW-ocB.text" = "Primary Care";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "C1p-fY-TVg"; */
+"C1p-fY-TVg.text" = "5.0";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "C4g-L7-HAq"; */
+"C4g-L7-HAq.text" = "Surname";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "CAx-F7-CuC"; */
+"CAx-F7-CuC.normalTitle" = "Edit";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "CYw-6S-Sea"; */
+"CYw-6S-Sea.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "At local clinics that are part\nof Infinity Doctors platform*"; ObjectID = "DfH-ii-Lsj"; */
+"DfH-ii-Lsj.text" = "At local clinics that are part\nof Infinity Doctors platform*";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "EHs-7A-OOI"; */
+"EHs-7A-OOI.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Rate & Continue"; ObjectID = "EKQ-tj-ekd"; */
+"EKQ-tj-ekd.normalTitle" = "Rate & Continue";
+
+/* Class = "UILabel"; text = "Specialty"; ObjectID = "Ers-e0-esT"; */
+"Ers-e0-esT.text" = "Specialty";
+
+/* Class = "UIButton"; normalTitle = "Get Care"; ObjectID = "F5I-7B-6Po"; */
+"F5I-7B-6Po.normalTitle" = "Get Care";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "FAU-1a-Fba"; */
+"FAU-1a-Fba.text" = "Language";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "FJH-8K-ky8"; */
+"FJH-8K-ky8.placeholder" = "User Name";
+
+/* Class = "UILabel"; text = "    /     remove"; ObjectID = "FbM-3F-VWF"; */
+"FbM-3F-VWF.text" = "    /     remove";
+
+/* Class = "UILabel"; text = "Select a Plan"; ObjectID = "GN9-6o-fhO"; */
+"GN9-6o-fhO.text" = "Select a Plan";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "GZQ-Ap-QP0"; */
+"GZQ-Ap-QP0.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "Board Certified in Internal Medicine in Columbia NY"; ObjectID = "GaJ-6T-qnJ"; */
+"GaJ-6T-qnJ.text" = "Board Certified in Internal Medicine in Columbia NY";
+
+/* Class = "UILabel"; text = "Sub Specialty"; ObjectID = "GfL-gH-jUs"; */
+"GfL-gH-jUs.text" = "Sub Specialty";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "Gzl-go-esQ"; */
+"Gzl-go-esQ.text" = "Language";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "HBG-aR-LQa"; */
+"HBG-aR-LQa.text" = "Language";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "HQe-wa-cy9"; */
+"HQe-wa-cy9.text" = "Height";
+
+/* Class = "UILabel"; text = "Please rate your Doctor"; ObjectID = "HUg-oE-EkC"; */
+"HUg-oE-EkC.text" = "Please rate your Doctor";
+
+/* Class = "UIButton"; normalTitle = "Book Appointment"; ObjectID = "IFG-z0-sfe"; */
+"IFG-z0-sfe.normalTitle" = "Book Appointment";
+
+/* Class = "UILabel"; text = "Review"; ObjectID = "IfU-DW-g55"; */
+"IfU-DW-g55.text" = "Review";
+
+/* Class = "UILabel"; text = "139.99"; ObjectID = "Ird-2U-sgv"; */
+"Ird-2U-sgv.text" = "139.99";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "J0j-TX-Bob"; */
+"J0j-TX-Bob.text" = "Country";
+
+/* Class = "UILabel"; text = "$289"; ObjectID = "JKe-ed-bXO"; */
+"JKe-ed-bXO.text" = "$289";
+
+/* Class = "UIButton"; normalTitle = "Date"; ObjectID = "JmF-w1-zkg"; */
+"JmF-w1-zkg.normalTitle" = "Date";
+
+/* Class = "UILabel"; text = "Chemotheray drugs"; ObjectID = "KeD-b4-FQ0"; */
+"KeD-b4-FQ0.text" = "Chemotheray drugs";
+
+/* Class = "UILabel"; text = "Headache"; ObjectID = "LIE-fe-svZ"; */
+"LIE-fe-svZ.text" = "Headache";
+
+/* Class = "UILabel"; text = "Drug"; ObjectID = "LMc-sP-g19"; */
+"LMc-sP-g19.text" = "Drug";
+
+/* Class = "UILabel"; text = "Pharmacy"; ObjectID = "LgG-K9-v0x"; */
+"LgG-K9-v0x.text" = "Pharmacy";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Lhn-Iw-Ew8"; */
+"Lhn-Iw-Ew8.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "Llu-Bt-er3"; */
+"Llu-Bt-er3.text" = "Male";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "Ln7-tV-lZh"; */
+"Ln7-tV-lZh.text" = "Terms and Conditions";
+
+/* Class = "UILabel"; text = "At local clinics that are part\nof Infinity Doctors platform*"; ObjectID = "Lrs-HQ-GpM"; */
+"Lrs-HQ-GpM.text" = "At local clinics that are part\nof Infinity Doctors platform*";
+
+/* Class = "UILabel"; text = "Hello Jordan G. How can we help you today?"; ObjectID = "MYG-D0-n6X"; */
+"MYG-D0-n6X.text" = "Hello Jordan G. How can we help you today?";
+
+/* Class = "UILabel"; text = "Do you remember\nyour appointment on\n25/09/2019 at 10:30 am?"; ObjectID = "Maz-Ce-En2"; */
+"Maz-Ce-En2.text" = "Do you remember\nyour appointment on\n25/09/2019 at 10:30 am?";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "NA0-SR-TGV"; */
+"NA0-SR-TGV.text" = "Country";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "NBW-Kg-GbO"; */
+"NBW-Kg-GbO.text" = "Name";
+
+/* Class = "UILabel"; text = "Terms of Use"; ObjectID = "NTo-vL-SIE"; */
+"NTo-vL-SIE.text" = "Terms of Use";
+
+/* Class = "UILabel"; text = "My Health"; ObjectID = "Ncm-7Y-PKR"; */
+"Ncm-7Y-PKR.text" = "My Health";
+
+/* Class = "UILabel"; text = "Muncinex"; ObjectID = "O1r-I3-Z3F"; */
+"O1r-I3-Z3F.text" = "Muncinex";
+
+/* Class = "UILabel"; text = "Schedule a doctor"; ObjectID = "OhS-QU-aPE"; */
+"OhS-QU-aPE.text" = "Schedule a doctor";
+
+/* Class = "UILabel"; text = "ON DEMAND"; ObjectID = "PIe-py-upY"; */
+"PIe-py-upY.text" = "ON DEMAND";
+
+/* Class = "UILabel"; text = "Aspirin, Ibopofren and others Nsaids"; ObjectID = "PWz-DH-M6r"; */
+"PWz-DH-M6r.text" = "Aspirin, Ibopofren and others Nsaids";
+
+/* Class = "UILabel"; text = "Medical Records"; ObjectID = "PeA-Ux-0Bh"; */
+"PeA-Ux-0Bh.text" = "Medical Records";
+
+/* Class = "UILabel"; text = "*Certain restrictions apply. See plan for details."; ObjectID = "QBJ-oM-yy0"; */
+"QBJ-oM-yy0.text" = "*Certain restrictions apply. See plan for details.";
+
+/* Class = "UITextField"; text = "FL"; ObjectID = "QEr-q9-v4D"; */
+"QEr-q9-v4D.text" = "FL";
+
+/* Class = "UILabel"; text = "Do not cover chronic diseases\nand complex operations**"; ObjectID = "QGL-IG-pRX"; */
+"QGL-IG-pRX.text" = "Do not cover chronic diseases\nand complex operations**";
+
+/* Class = "UILabel"; text = "CVS-Miami-26"; ObjectID = "QcP-p9-8ls"; */
+"QcP-p9-8ls.text" = "CVS-Miami-26";
+
+/* Class = "UIButton"; normalTitle = "Learn More"; ObjectID = "QvI-mF-r7B"; */
+"QvI-mF-r7B.normalTitle" = "Learn More";
+
+/* Class = "UILabel"; text = "INFINITY GLOBAL"; ObjectID = "R3A-sj-Q3n"; */
+"R3A-sj-Q3n.text" = "INFINITY GLOBAL";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "R6D-Aw-tGh"; */
+"R6D-Aw-tGh.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "$49"; ObjectID = "R7T-1k-Hs1"; */
+"R7T-1k-Hs1.text" = "$49";
+
+/* Class = "UILabel"; text = "Dr. Alfonso Miguel"; ObjectID = "RvH-ZY-RXa"; */
+"RvH-ZY-RXa.text" = "Dr. Alfonso Miguel";
+
+/* Class = "UILabel"; text = "and"; ObjectID = "SAk-dG-sbq"; */
+"SAk-dG-sbq.text" = "and";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "SN1-qu-scD"; */
+"SN1-qu-scD.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "SaD-P8-o7S"; */
+"SaD-P8-o7S.text" = "Settings";
+
+/* Class = "UILabel"; text = "Hide"; ObjectID = "Sad-Ae-d90"; */
+"Sad-Ae-d90.text" = "Hide";
+
+/* Class = "UILabel"; text = "More Info"; ObjectID = "Syd-E7-v9h"; */
+"Syd-E7-v9h.text" = "More Info";
+
+/* Class = "UITextField"; text = "ST, Miami"; ObjectID = "T9H-cb-Eq7"; */
+"T9H-cb-Eq7.text" = "ST, Miami";
+
+/* Class = "UILabel"; text = "139.99"; ObjectID = "TC8-tM-Ub3"; */
+"TC8-tM-Ub3.text" = "139.99";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "TDu-JY-aoF"; */
+"TDu-JY-aoF.text" = "State";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "TKf-Hs-Vrh"; */
+"TKf-Hs-Vrh.text" = "Terms and Conditions";
+
+/* Class = "UILabel"; text = "Tell us what's Yours symptoms?"; ObjectID = "TKs-uk-1P8"; */
+"TKs-uk-1P8.text" = "Tell us what's Yours symptoms?";
+
+/* Class = "UILabel"; text = "Plus $30 per consult"; ObjectID = "TZT-2U-E0Z"; */
+"TZT-2U-E0Z.text" = "Plus $30 per consult";
+
+/* Class = "UILabel"; text = "Do not cover chronic diseases\nand complex operations**"; ObjectID = "U8f-CQ-dJ8"; */
+"U8f-CQ-dJ8.text" = "Do not cover chronic diseases\nand complex operations**";
+
+/* Class = "UILabel"; text = "Farmacy"; ObjectID = "URA-qF-B03"; */
+"URA-qF-B03.text" = "Farmacy";
+
+/* Class = "UILabel"; text = "151.3 P"; ObjectID = "URN-hq-ju8"; */
+"URN-hq-ju8.text" = "151.3 P";
+
+/* Class = "UILabel"; text = "Flonase allergy"; ObjectID = "UZO-zt-qyQ"; */
+"UZO-zt-qyQ.text" = "Flonase allergy";
+
+/* Class = "UIButton"; normalTitle = "Learn More"; ObjectID = "Uhk-W3-bIf"; */
+"Uhk-W3-bIf.normalTitle" = "Learn More";
+
+/* Class = "UILabel"; text = "Personal Info"; ObjectID = "V7g-S1-Dgk"; */
+"V7g-S1-Dgk.text" = "Personal Info";
+
+/* Class = "UIButton"; normalTitle = "Forgotten your password?"; ObjectID = "VDp-qD-Oa1"; */
+"VDp-qD-Oa1.normalTitle" = "Forgotten your password?";
+
+/* Class = "UILabel"; text = "INFINITY HEALTH"; ObjectID = "VH6-8f-BR5"; */
+"VH6-8f-BR5.text" = "INFINITY HEALTH";
+
+/* Class = "UILabel"; text = "Unlimited presencial Consultations"; ObjectID = "VMu-NT-QKZ"; */
+"VMu-NT-QKZ.text" = "Unlimited presencial Consultations";
+
+/* Class = "UILabel"; text = "English, Spanish"; ObjectID = "VgA-lg-L8j"; */
+"VgA-lg-L8j.text" = "English, Spanish";
+
+/* Class = "UILabel"; text = "Post Code"; ObjectID = "Vyg-Vh-yDv"; */
+"Vyg-Vh-yDv.text" = "Post Code";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "WIa-8C-zlg"; */
+"WIa-8C-zlg.text" = "Weight";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wba-lg-Whd"; */
+"Wba-lg-Whd.text" = "Label";
+
+/* Class = "UILabel"; text = "Date of Birth"; ObjectID = "WgB-G5-efQ"; */
+"WgB-G5-efQ.text" = "Date of Birth";
+
+/* Class = "UILabel"; text = "Per Month"; ObjectID = "Whw-0N-jj7"; */
+"Whw-0N-jj7.text" = "Per Month";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "Wl4-u1-HSw"; */
+"Wl4-u1-HSw.text" = "Male";
+
+/* Class = "UIButton"; normalTitle = "Free Trial"; ObjectID = "XNR-Pd-Ufe"; */
+"XNR-Pd-Ufe.normalTitle" = "Free Trial";
+
+/* Class = "UILabel"; text = "10/10/2019"; ObjectID = "XbF-gJ-mZB"; */
+"XbF-gJ-mZB.text" = "10/10/2019";
+
+/* Class = "UILabel"; text = "Pharmacy"; ObjectID = "XgT-rZ-Jgi"; */
+"XgT-rZ-Jgi.text" = "Pharmacy";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "Xjh-mL-dAI"; */
+"Xjh-mL-dAI.text" = "No";
+
+/* Class = "UILabel"; text = "139.99"; ObjectID = "XqJ-tG-n5O"; */
+"XqJ-tG-n5O.text" = "139.99";
+
+/* Class = "UILabel"; text = "Current Address"; ObjectID = "Xqv-fs-4UN"; */
+"Xqv-fs-4UN.text" = "Current Address";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Xv4-d1-34l"; */
+"Xv4-d1-34l.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Get Care"; ObjectID = "Xvj-90-fcH"; */
+"Xvj-90-fcH.normalTitle" = "Get Care";
+
+/* Class = "UILabel"; text = "Patient Medical History"; ObjectID = "YFM-C1-Iu8"; */
+"YFM-C1-Iu8.text" = "Patient Medical History";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ZC1-Rz-Bat"; */
+"ZC1-Rz-Bat.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "ZRI-3G-7Tf"; */
+"ZRI-3G-7Tf.text" = "Language";
+
+/* Class = "UILabel"; text = "Review"; ObjectID = "Zh3-aa-q2C"; */
+"Zh3-aa-q2C.text" = "Review";
+
+/* Class = "UILabel"; text = "Allergies"; ObjectID = "Zjs-OP-gnR"; */
+"Zjs-OP-gnR.text" = "Allergies";
+
+/* Class = "UILabel"; text = "Based on your information, it coultd\npotentially be one of the following:  "; ObjectID = "Zsg-hQ-2gl"; */
+"Zsg-hQ-2gl.text" = "Based on your information, it coultd\npotentially be one of the following:  ";
+
+/* Class = "UILabel"; text = "Birth-Country"; ObjectID = "ZxZ-iK-W8Z"; */
+"ZxZ-iK-W8Z.text" = "Birth-Country";
+
+/* Class = "UIButton"; normalTitle = "Hour"; ObjectID = "adz-HC-CIe"; */
+"adz-HC-CIe.normalTitle" = "Hour";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "agf-8V-EAZ"; */
+"agf-8V-EAZ.text" = "State";
+
+/* Class = "UIButton"; normalTitle = "Redial"; ObjectID = "ang-6k-W0q"; */
+"ang-6k-W0q.normalTitle" = "Redial";
+
+/* Class = "UITextField"; placeholder = "Enter your Confirm Password"; ObjectID = "axQ-JT-KuF"; */
+"axQ-JT-KuF.placeholder" = "Enter your Confirm Password";
+
+/* Class = "UILabel"; text = "Amoxicillin"; ObjectID = "b2U-bd-2Pm"; */
+"b2U-bd-2Pm.text" = "Amoxicillin";
+
+/* Class = "UILabel"; text = "reviews"; ObjectID = "b9J-oB-suA"; */
+"b9J-oB-suA.text" = "reviews";
+
+/* Class = "UILabel"; text = "Unlimited presencial Consultations"; ObjectID = "bGl-wN-vvK"; */
+"bGl-wN-vvK.text" = "Unlimited presencial Consultations";
+
+/* Class = "UILabel"; text = "Jordan G."; ObjectID = "bmi-La-og2"; */
+"bmi-La-og2.text" = "Jordan G.";
+
+/* Class = "UILabel"; text = "Do not cover chronic diseases\nand complex operations**"; ObjectID = "btF-MZ-5Fg"; */
+"btF-MZ-5Fg.text" = "Do not cover chronic diseases\nand complex operations**";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "c5Z-Jf-XRG"; */
+"c5Z-Jf-XRG.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Subtotal"; ObjectID = "cac-G5-oBO"; */
+"cac-G5-oBO.text" = "Subtotal";
+
+/* Class = "UITextField"; placeholder = "Enter your Password"; ObjectID = "cdx-8E-j6R"; */
+"cdx-8E-j6R.placeholder" = "Enter your Password";
+
+/* Class = "UILabel"; text = "Doctor"; ObjectID = "dAI-e9-MGh"; */
+"dAI-e9-MGh.text" = "Doctor";
+
+/* Class = "UILabel"; text = "    /     remove"; ObjectID = "dGm-DZ-Szx"; */
+"dGm-DZ-Szx.text" = "    /     remove";
+
+/* Class = "UIButton"; normalTitle = "Learn More"; ObjectID = "dPA-Ch-D8d"; */
+"dPA-Ch-D8d.normalTitle" = "Learn More";
+
+/* Class = "UIButton"; normalTitle = "Free trial"; ObjectID = "dQb-gT-JDR"; */
+"dQb-gT-JDR.normalTitle" = "Free trial";
+
+/* Class = "UILabel"; text = "At local clinics that are part\nof Infinity Doctors platform*"; ObjectID = "ds8-xE-g7G"; */
+"ds8-xE-g7G.text" = "At local clinics that are part\nof Infinity Doctors platform*";
+
+/* Class = "UILabel"; text = "Review"; ObjectID = "eMr-OD-tnJ"; */
+"eMr-OD-tnJ.text" = "Review";
+
+/* Class = "UILabel"; text = "5 F"; ObjectID = "ehw-pf-fbd"; */
+"ehw-pf-fbd.text" = "5 F";
+
+/* Class = "UILabel"; text = "Per Month"; ObjectID = "el7-pK-km7"; */
+"el7-pK-km7.text" = "Per Month";
+
+/* Class = "UILabel"; text = "Chief complaint"; ObjectID = "emj-27-Sum"; */
+"emj-27-Sum.text" = "Chief complaint";
+
+/* Class = "UILabel"; text = "Dermatoligist"; ObjectID = "epn-jr-Qzc"; */
+"epn-jr-Qzc.text" = "Dermatoligist";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."; ObjectID = "exL-vO-5sK"; */
+"exL-vO-5sK.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda. Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
+
+/* Class = "UILabel"; text = "Time Range"; ObjectID = "f0q-cD-D50"; */
+"f0q-cD-D50.text" = "Time Range";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "f4J-3J-b5y"; */
+"f4J-3J-b5y.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "$99"; ObjectID = "fDc-ME-i6m"; */
+"fDc-ME-i6m.text" = "$99";
+
+/* Class = "UILabel"; text = "31"; ObjectID = "fDc-eg-Mdz"; */
+"fDc-eg-Mdz.text" = "31";
+
+/* Class = "UILabel"; text = "Alfonso M."; ObjectID = "fHq-IT-w12"; */
+"fHq-IT-w12.text" = "Alfonso M.";
+
+/* Class = "UILabel"; text = "INFINITY GLOBAL"; ObjectID = "fOY-fq-9l0"; */
+"fOY-fq-9l0.text" = "INFINITY GLOBAL";
+
+/* Class = "UILabel"; text = "In order to be specific and to treat you,\nwe do recommend you to talk with a Doctor. \n\nWould you like to GET CARE now?"; ObjectID = "fTI-bc-GPB"; */
+"fTI-bc-GPB.text" = "In order to be specific and to treat you,\nwe do recommend you to talk with a Doctor. \n\nWould you like to GET CARE now?";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "fkQ-8W-fut"; */
+"fkQ-8W-fut.text" = "Total";
+
+/* Class = "UILabel"; text = "4.9"; ObjectID = "fvI-v3-Fk4"; */
+"fvI-v3-Fk4.text" = "4.9";
+
+/* Class = "UILabel"; text = "Dr. Alfonso Miguel"; ObjectID = "fyv-YY-nyh"; */
+"fyv-YY-nyh.text" = "Dr. Alfonso Miguel";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "g1u-43-S7r"; */
+"g1u-43-S7r.text" = "English";
+
+/* Class = "UILabel"; text = "Save for later"; ObjectID = "gSu-sh-lDy"; */
+"gSu-sh-lDy.text" = "Save for later";
+
+/* Class = "UILabel"; text = "Allergies"; ObjectID = "gUD-xP-EPM"; */
+"gUD-xP-EPM.text" = "Allergies";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "gWP-p6-5m3"; */
+"gWP-p6-5m3.text" = "Height";
+
+/* Class = "UILabel"; text = "Includes"; ObjectID = "ggS-wn-4Id"; */
+"ggS-wn-4Id.text" = "Includes";
+
+/* Class = "UITextField"; placeholder = "Enter your Email"; ObjectID = "gnB-H6-X8d"; */
+"gnB-H6-X8d.placeholder" = "Enter your Email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gs0-fU-qlB"; */
+"gs0-fU-qlB.text" = "Label";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "gwL-Bd-h1p"; */
+"gwL-Bd-h1p.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "From 9:00AM to 8:00PM"; ObjectID = "h0t-fM-z39"; */
+"h0t-fM-z39.text" = "From 9:00AM to 8:00PM";
+
+/* Class = "UILabel"; text = "Please complete your email and password"; ObjectID = "h8c-fb-Vf3"; */
+"h8c-fb-Vf3.text" = "Please complete your email and password";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "hEC-Xj-56l"; */
+"hEC-Xj-56l.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Post code"; ObjectID = "hII-JB-gbh"; */
+"hII-JB-gbh.text" = "Post code";
+
+/* Class = "UILabel"; text = "Alprazolam Tablets (0.5 mg)"; ObjectID = "hLq-W5-Ypw"; */
+"hLq-W5-Ypw.text" = "Alprazolam Tablets (0.5 mg)";
+
+/* Class = "UITextField"; placeholder = "Retype New Password"; ObjectID = "hdd-tM-HbL"; */
+"hdd-tM-HbL.placeholder" = "Retype New Password";
+
+/* Class = "UILabel"; text = "5:30PM - 6:30PM"; ObjectID = "hmz-sg-q6g"; */
+"hmz-sg-q6g.text" = "5:30PM - 6:30PM";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "iKb-NP-3Ix"; */
+"iKb-NP-3Ix.text" = "Change Password";
+
+/* Class = "UILabel"; text = "Shipping"; ObjectID = "in2-uH-GAR"; */
+"in2-uH-GAR.text" = "Shipping";
+
+/* Class = "UILabel"; text = "English, Spanish"; ObjectID = "ipu-6m-QLE"; */
+"ipu-6m-QLE.text" = "English, Spanish";
+
+/* Class = "UILabel"; text = "Symptom"; ObjectID = "jBg-zJ-s9d"; */
+"jBg-zJ-s9d.text" = "Symptom";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "jN5-t8-geN"; */
+"jN5-t8-geN.text" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "k6C-WE-3Oj"; */
+"k6C-WE-3Oj.text" = "Nationality";
+
+/* Class = "UILabel"; text = "Sort by"; ObjectID = "ktE-7N-gnM"; */
+"ktE-7N-gnM.text" = "Sort by";
+
+/* Class = "UILabel"; text = "Reviews"; ObjectID = "lBQ-uB-bhb"; */
+"lBQ-uB-bhb.text" = "Reviews";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "lKP-Ew-DOJ"; */
+"lKP-Ew-DOJ.text" = "Change Password";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "lWA-bJ-s3N"; */
+"lWA-bJ-s3N.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "Antibiotics containiz sulfamida"; ObjectID = "m5j-rP-RI9"; */
+"m5j-rP-RI9.text" = "Antibiotics containiz sulfamida";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "mEH-4g-NhQ"; */
+"mEH-4g-NhQ.text" = "Weight";
+
+/* Class = "UILabel"; text = "English, Spanish"; ObjectID = "mML-ud-Xjg"; */
+"mML-ud-Xjg.text" = "English, Spanish";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "mOA-br-SQi"; */
+"mOA-br-SQi.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Get Care"; ObjectID = "meO-AE-fNx"; */
+"meO-AE-fNx.normalTitle" = "Get Care";
+
+/* Class = "UILabel"; text = "Includes"; ObjectID = "n3o-UA-7fu"; */
+"n3o-UA-7fu.text" = "Includes";
+
+/* Class = "UILabel"; text = "Filters"; ObjectID = "nJH-Yr-oze"; */
+"nJH-Yr-oze.text" = "Filters";
+
+/* Class = "UILabel"; text = "How it Works"; ObjectID = "nM1-AO-fOi"; */
+"nM1-AO-fOi.text" = "How it Works";
+
+/* Class = "UILabel"; text = "Unlimited presencial Consultations"; ObjectID = "nNE-r3-FiH"; */
+"nNE-r3-FiH.text" = "Unlimited presencial Consultations";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "nVb-ii-SzA"; */
+"nVb-ii-SzA.text" = "Language";
+
+/* Class = "UILabel"; text = "Alcohol"; ObjectID = "ndv-fP-slz"; */
+"ndv-fP-slz.text" = "Alcohol";
+
+/* Class = "UILabel"; text = "Your Appointment"; ObjectID = "nfQ-2a-7H2"; */
+"nfQ-2a-7H2.text" = "Your Appointment";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "o1u-ds-WQt"; */
+"o1u-ds-WQt.text" = "Language";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "ohz-w5-phA"; */
+"ohz-w5-phA.placeholder" = "Current Password";
+
+/* Class = "UILabel"; text = "Medical Hístory"; ObjectID = "okk-if-exX"; */
+"okk-if-exX.text" = "Medical Hístory";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "p5A-b3-PP3"; */
+"p5A-b3-PP3.text" = "Yes";
+
+/* Class = "UILabel"; text = "Per Month"; ObjectID = "pR9-jk-EaR"; */
+"pR9-jk-EaR.text" = "Per Month";
+
+/* Class = "UILabel"; text = "Plus $30 per consult"; ObjectID = "pSL-HZ-CO5"; */
+"pSL-HZ-CO5.text" = "Plus $30 per consult";
+
+/* Class = "UILabel"; text = "48"; ObjectID = "pYU-XD-Wan"; */
+"pYU-XD-Wan.text" = "48";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "png-bT-3AG"; */
+"png-bT-3AG.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "pp4-Ou-BlP"; */
+"pp4-Ou-BlP.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "5.0"; ObjectID = "q0p-Uu-d7w"; */
+"q0p-Uu-d7w.text" = "5.0";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "qQu-cZ-k7k"; */
+"qQu-cZ-k7k.text" = "City";
+
+/* Class = "UITextField"; text = "78 SN 7th "; ObjectID = "rjp-y0-LAG"; */
+"rjp-y0-LAG.text" = "78 SN 7th ";
+
+/* Class = "UIButton"; normalTitle = "Save Change"; ObjectID = "rn2-Xq-u7h"; */
+"rn2-Xq-u7h.normalTitle" = "Save Change";
+
+/* Class = "UILabel"; text = "Schedule a Doctor"; ObjectID = "sA6-Yh-Ppv"; */
+"sA6-Yh-Ppv.text" = "Schedule a Doctor";
+
+/* Class = "UILabel"; text = "Not a User?"; ObjectID = "sRO-vn-lJt"; */
+"sRO-vn-lJt.text" = "Not a User?";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "sx1-FM-3TB"; */
+"sx1-FM-3TB.normalTitle" = "Log In";
+
+/* Class = "UILabel"; text = "Name of Drug"; ObjectID = "tnY-Bu-OPc"; */
+"tnY-Bu-OPc.text" = "Name of Drug";
+
+/* Class = "UILabel"; text = "Review"; ObjectID = "uCC-zq-dqz"; */
+"uCC-zq-dqz.text" = "Review";
+
+/* Class = "UITextField"; placeholder = "Search by name"; ObjectID = "uGV-GQ-Wn7"; */
+"uGV-GQ-Wn7.placeholder" = "Search by name";
+
+/* Class = "UILabel"; text = "Plus $30 per consult"; ObjectID = "uSv-MW-wV9"; */
+"uSv-MW-wV9.text" = "Plus $30 per consult";
+
+/* Class = "UILabel"; text = "Includes"; ObjectID = "ufg-X0-lfq"; */
+"ufg-X0-lfq.text" = "Includes";
+
+/* Class = "UIButton"; normalTitle = "Free trial"; ObjectID = "v9f-54-BEd"; */
+"v9f-54-BEd.normalTitle" = "Free trial";
+
+/* Class = "UILabel"; text = "Privacy Policy "; ObjectID = "vkg-OI-kTZ"; */
+"vkg-OI-kTZ.text" = "Privacy Policy ";
+
+/* Class = "UILabel"; text = "151.3 P"; ObjectID = "vpL-tB-SGG"; */
+"vpL-tB-SGG.text" = "151.3 P";
+
+/* Class = "UILabel"; text = "Smoke"; ObjectID = "w6n-Fu-Cgx"; */
+"w6n-Fu-Cgx.text" = "Smoke";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "w9x-rT-k7f"; */
+"w9x-rT-k7f.text" = "City";
+
+/* Class = "UILabel"; text = "Dr. Alfonso Miguel"; ObjectID = "wAb-fd-KtL"; */
+"wAb-fd-KtL.text" = "Dr. Alfonso Miguel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wPr-XO-LcH"; */
+"wPr-XO-LcH.text" = "Label";
+
+/* Class = "UILabel"; text = "Your appointment on\n25/09/2019 at 5:30 PM"; ObjectID = "wf9-xS-gVX"; */
+"wf9-xS-gVX.text" = "Your appointment on\n25/09/2019 at 5:30 PM";
+
+/* Class = "UILabel"; text = "Alprazolam Tablets (0.5 mg)"; ObjectID = "wnn-p8-3CR"; */
+"wnn-p8-3CR.text" = "Alprazolam Tablets (0.5 mg)";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "xCT-Ql-meC"; */
+"xCT-Ql-meC.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "xNH-Pf-1Jf"; */
+"xNH-Pf-1Jf.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "xaR-nF-xbb"; */
+"xaR-nF-xbb.text" = "Date";
+
+/* Class = "UILabel"; text = "Miami, FL"; ObjectID = "xgZ-mD-Al8"; */
+"xgZ-mD-Al8.text" = "Miami, FL";
+
+/* Class = "UIButton"; normalTitle = "Shop more"; ObjectID = "xyb-vo-0XM"; */
+"xyb-vo-0XM.normalTitle" = "Shop more";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "yM9-i4-1IF"; */
+"yM9-i4-1IF.text" = "Yes";
+
+/* Class = "UILabel"; text = "English, Spanish"; ObjectID = "ylI-MD-PQ4"; */
+"ylI-MD-PQ4.text" = "English, Spanish";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "zJ1-nE-edR"; */
+"zJ1-nE-edR.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Dr. Edurdo Alvarez"; ObjectID = "zXK-yn-6NE"; */
+"zXK-yn-6NE.text" = "Dr. Edurdo Alvarez";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "ztM-wY-1mH"; */
+"ztM-wY-1mH.text" = "Notification";

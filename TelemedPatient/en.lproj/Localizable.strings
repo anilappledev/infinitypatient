@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  TelemedPatient
+
+  Created by dr.mac on 18/10/19.
+  Copyright © 2019 dr.mac. All rights reserved.
+*/
+
+"Email" =  "Email";
+"Password" =  "Password";
+"I forgot my password" = "I forgot my password";
+"LogIn" =  "Log In";
+"Sign Up" = "Sign Up";
+"Not a User?" = "Not a User?";
